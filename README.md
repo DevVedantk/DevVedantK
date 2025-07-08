@@ -1,5 +1,10 @@
 <h2 align="center">Hello World I'm Vedant Khasbage</h2>
 
+
+<div align="center">
+  <img height="420" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
+</div>
+
 ###
 
 <div align="center">
@@ -8,10 +13,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="420" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
-</div>
 
 ###
 
@@ -52,48 +53,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/devvedantk/devvedantk/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/devvedantk/devvedantk/output/snake.svg" alt="Snake animation" />
 
 ###
